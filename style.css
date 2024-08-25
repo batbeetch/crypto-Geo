@@ -1,0 +1,34 @@
+
+body {
+    background-color: #E5E5E5;
+    font-family: 'Inter';
+}
+
+.yo {
+    color: #0a3871;
+}
+
+.imgsize {
+    width: 300px;
+    /*border-radius: 25px;
+    border: 1px solid #CCCCCC;*/
+}
+
+
+.mensaje{
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 2px 1px #FAFAFA;
+    height: 200px;
+}
+
+textarea {
+    height: 200px;
+}
+
+.textito {
+    font-size: .9em;
+}
+
+.fondoazul {
+    background-color: #0a3871;
+}
